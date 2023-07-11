@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2896974926",
+    "project_id": "calculadora-2a81d",
+    "storage_bucket": "calculadora-2a81d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2896974926:android:05c04ee4808a7931571f1f",
+        "android_client_info": {
+          "package_name": "com.eliut.navegadordraweliu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2896974926-9hdhdauah2m24aat4cb8po37blsd6e4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsdiAe3k-JDlcim3vqpA_g66S2bgtfLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2896974926-9hdhdauah2m24aat4cb8po37blsd6e4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
